@@ -1,7 +1,7 @@
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @Abishnoi1M
-#     MY ALL BOTS :- Abishnoi_bots
-#     GITHUB :- KingAbishnoi ""
+# TG :- @i_Dxlvir
+#     MY ALL BOTS :- DhimanBots
+#     GITHUB :- ds98762 ""
 
 from platform import python_version as y
 
@@ -13,7 +13,7 @@ from telethon import __version__ as s
 
 from Exon import Abishnoi as pbot
 
-ABISHNOIX = "https://te.legra.ph/file/abfc49a1cc4b5629dc8cd.jpg"
+ABISHNOIX = "https://telegra.ph/file/4635040a133c96b71502d.jpg"
 
 
 @pbot.on_message(filters.command("repo"))
@@ -22,7 +22,7 @@ async def repo(_, message):
         photo=ABISHNOIX,
         caption=f"""✨ **ʜᴇʏ {message.from_user.mention},**
 
-**ᴏᴡɴᴇʀ  : [𝐀ʙɪꜱʜɴᴏɪ](https://t.me/Abishnoi1M)**
+**ᴏᴡɴᴇʀ  : [Ɗʜɪᴍคɴ](https://t.me/i_dxlvir)**
 **ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ :** `{y()}`
 **ʟɪʙʀᴀʀʏ ᴠᴇʀꜱɪᴏɴ :** `{o}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ :** `{s}`
@@ -33,10 +33,10 @@ async def repo(_, message):
             [
                 [
                     InlineKeyboardButton(
-                        "•ᴍᴜꜱɪᴄ•", url="https://github.com/Abishnoi69/AsuXMusic"
+                        "🌸 ᴜᴘᴅᴀᴛᴇs 🌸", url="https://t.me/DDSrVR"
                     ),
                     InlineKeyboardButton(
-                        "•ʀᴏʙᴏᴠ1•", url="https://github.com/Abishnoi69/ExonRobot"
+                        "🌸 sᴜᴘᴘᴏʀᴛ 🌸", url="https://t.me/DhimanDiscus"
                     ),
                 ]
             ]
